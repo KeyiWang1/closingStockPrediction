@@ -17,11 +17,11 @@ DISCLAIMER:<br>
         The model uses data from the past 60 days to predict the next day which is not practical in nature.<br>
         A well functioning model would incorporate elements that reflect the core traits of a market prediction<br>
         from an economic standpoint such as:<br>
-        - macroeconomic news (e.g. interest rate changes)<br>
-        - fundamental analysis (e.g. earnings release notes)<br>
-        - statistical analysis (e.g. co-integration)<br>
-        - technical analysis (e.g. moving averages)<br>
-        - market microstructure (e.g. arbitrage or trade infrastructure)<br>
+                - macroeconomic news (e.g. interest rate changes)<br>
+                - fundamental analysis (e.g. earnings release notes)<br>
+                - statistical analysis (e.g. co-integration)<br>
+                - technical analysis (e.g. moving averages)<br>
+                - market microstructure (e.g. arbitrage or trade infrastructure)<br>
         of sentiment analysis or expert review. <br>
         Most of which are not yet incorperated in this model<br>
 """
