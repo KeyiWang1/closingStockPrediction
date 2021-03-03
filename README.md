@@ -2,10 +2,13 @@
 
 This model uses a Recurrent Neural Network (Long Short Term Memory) to predict the closing stock price of corperations.<br>
 Uses tools like pandas, pandas_datareader, numpy, sklearn, and keras<br>
-<h2>Actual Data<\h2>
+
 ![actualStock](https://user-images.githubusercontent.com/49726134/109836036-653d5400-7c09-11eb-8e34-c990a6dc3e47.png)
-<h2>Actual Data vs Predicted Data<\h2>
+
 ![actualVSpredictedStock](https://user-images.githubusercontent.com/49726134/109836218-8e5de480-7c09-11eb-931e-113fd207d2a2.png)
+
+<h2>Actual Data</h2>
+<h2>Actual Data vs Predicted Data</h2>
 
 """<br>
 DISCLAIMER:<br>
